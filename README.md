@@ -1,2 +1,2 @@
 # uopscience
-This will have the university projects while learning in the class.  
+This repository is for Master Project.  
