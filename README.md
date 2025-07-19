@@ -1,2 +1,2 @@
-### UoP MSc. Data Analytic
-This repository is for Master Project.  
+### MSc. Data Analytic
+Master's degree project resources and implementation.
