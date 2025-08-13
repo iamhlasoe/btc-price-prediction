@@ -7,9 +7,9 @@ This repository contains the code and resources for my Master's degree machine l
 The project focuses on **[brief 1–2 line summary of problem + solution]**.
 
 ## 📰 Publication
-- **Title:** [Enhancing Bitcoin Price Prediction with Deep Learning: Integrating Social Media Sentiment and Historical Data]  
-- **Journal:** [MDPI Applied Sciences]  
-- **DOI / Link:** [https://doi.org/10.3390/app15031554]  
+- **Title:** Enhancing Bitcoin Price Prediction with Deep Learning: Integrating Social Media Sentiment and Historical Data
+- **Journal:** MDPI Applied Sciences 
+- **DOI / Link:** https://doi.org/10.3390/app15031554  
 
 ## 🎯 Objectives
 - Explain the purpose of the project  
