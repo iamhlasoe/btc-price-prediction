@@ -1,6 +1,11 @@
-# Enhancing Bitcoin Price Prediction with Deep Learning: Integrating Social
-Media Sentiment and Historical Data 
-_A concise, descriptive tagline of your project._
+# Enhancing Bitcoin Price Prediction with Deep Learning: Integrating Social Media Sentiment and Historical Data 
+![Python](https://img.shields.io/badge/python-3.x-blue.svg)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)
+![Keras](https://img.shields.io/badge/Keras-Deep%20Learning-red.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/bitcoin-price-prediction)
+![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/bitcoin-price-prediction)
+![Paper Published](https://img.shields.io/badge/Published-Yes-brightgreen)
 
 ## 📄 Overview
 This repository contains the code and resources for my Master's degree machine learning project, **"[Your Project Title]"**, which has been **published in [MDPI Applied Sciences, 2025]**.  
