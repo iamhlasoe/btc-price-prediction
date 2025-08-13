@@ -36,16 +36,16 @@ The study addresses the challenge of Bitcoin's extreme volatility by combining *
 ## 📈 Results
 
 Among the five LSTM-based models developed:
--Multi-LSTM-Sentiment achieved the best performance:
---MAE: 0.00196
---RMSE: 0.00304
--Results demonstrate the importance of social media sentiment in enhancing cryptocurrency forecasting models.
+- Multi-LSTM-Sentiment achieved the best performance:
+  -- MAE: 0.00196
+  -- RMSE: 0.00304
+- Results demonstrate the importance of social media sentiment in enhancing cryptocurrency forecasting models.
 
 ## 🏆 Key Contributions
 
--Introduced a multivariate LSTM framework that integrates Twitter sentiment and volume data with historical prices.
--Demonstrated significant improvement over a univariate LSTM baseline.
--Provided an open-source pipeline for cryptocurrency sentiment analysis and price prediction.
+- Introduced a multivariate LSTM framework that integrates Twitter sentiment and volume data with historical prices.
+- Demonstrated significant improvement over a univariate LSTM baseline.
+- Provided an open-source pipeline for cryptocurrency sentiment analysis and price prediction.
 
 
 
