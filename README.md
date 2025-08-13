@@ -37,8 +37,8 @@ The study addresses the challenge of Bitcoin's extreme volatility by combining *
 
 Among the five LSTM-based models developed:
 - Multi-LSTM-Sentiment achieved the best performance:
-  -- MAE: 0.00196
-  -- RMSE: 0.00304
+  - MAE: 0.00196
+  - RMSE: 0.00304
 - Results demonstrate the importance of social media sentiment in enhancing cryptocurrency forecasting models.
 
 ## 🏆 Key Contributions
