@@ -10,6 +10,7 @@
 ## 📄 Overview
 
 This repository contains the code and resources for my Master's degree machine learning project, **"Enhancing Bitcoin Price Prediction with Deep Learning: Integrating Social Media Sentiment and Historical Data"**, which has been **published in MDPI Applied Sciences Journal, 2025**.  
+
 The study addresses the challenge of Bitcoin's extreme volatility by combining **historical price data** with **social media sentiment and tweet volume data** in a **multivariate deep learning framework**.
 
 ## 📰 Publication
